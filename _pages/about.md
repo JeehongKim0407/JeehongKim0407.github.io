@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D Student in Data Science . Contacts. Motto. Etc.
+subtitle: Ph.D Student in Data Science
 
 profile:
   align: right
@@ -31,7 +31,7 @@ Hello! I'm a Ph.D student in the Graduate School of Data Science at Seoul Nation
 
 I’m actively conducting research with my amazing colleagues at the [Visualization and Business Analytics Lab](https://viba.snu.ac.kr/).
 
-My research interests include:
+My research interests include, but are not limited to, the following:
 - Graph Representation Learning  
 - Knowledge Graphs  
 - Anomaly Detection
