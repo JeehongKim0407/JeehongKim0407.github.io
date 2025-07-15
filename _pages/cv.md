@@ -1,6 +1,11 @@
 ---
-layout: null
+layout: cv
 permalink: /cv/
-title: cv
-redirect_to: /pdf/JeehongKim_CV_v2.pdf
+title: Jeehong Kim's CV
+nav: true
+nav_order: 5
 ---
+
+<script>
+  window.location.href = "./assets/pdf/JeehongKim_CV_v2.pdf";
+</script>
