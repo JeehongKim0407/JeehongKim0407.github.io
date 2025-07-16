@@ -1,10 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
-nav_order: 5
+nav_order: 3
+cv_pdf:
 ---
-
-<meta http-equiv="refresh" content="0; url=/assets/pdf/JeehongKim_CV_v2.pdf">
-<p>If you are not redirected, <a href="/assets/pdf/JeehongKim_CV_v2.pdf">click here</a>.</p>
