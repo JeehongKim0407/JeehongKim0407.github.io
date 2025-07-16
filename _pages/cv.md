@@ -1,8 +1,11 @@
 ---
-layout: cv
+layout: null
 permalink: /cv/
-title: cv
+title: CV
 nav: true
-nav_order: 3
-cv_pdf:
+nav_order: 5
 ---
+
+<script>
+  window.location.replace("{{ '/assets/pdf/JeehongKim_CV_v2.pdf' | relative_url }}");
+</script>
