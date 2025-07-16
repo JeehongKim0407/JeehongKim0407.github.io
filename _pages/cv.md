@@ -7,5 +7,5 @@ nav_order: 5
 ---
 
 <script>
-  window.location.replace("{{ '/assets/pdf/JeehongKim_CV_v2.pdf' | relative_url }}");
+  window.location.replace("{{ '/assets/pdf/JeehongKim_CV.pdf' | relative_url }}");
 </script>
