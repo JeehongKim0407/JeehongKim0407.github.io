@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-got-accepted-at-plos-one",
           title: 'A paper got accepted at PLOS One.',
           description: "",
+          section: "News",},{id: "news-a-paper-got-accepted-at-ieee-access",
+          title: 'A paper got accepted at IEEE Access.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
