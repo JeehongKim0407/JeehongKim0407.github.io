@@ -38,6 +38,9 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-got-accepted-at-neurips-2025-workshop-on-ai4science",
           title: 'A paper got accepted at NeurIPS 2025 Workshop on AI4Science.',
           description: "",
+          section: "News",},{id: "news-i-started-my-internship-at-lg-ai-research-materials-intelligence-lab",
+          title: 'I started my internship at LG AI Research, Materials Intelligence Lab.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
