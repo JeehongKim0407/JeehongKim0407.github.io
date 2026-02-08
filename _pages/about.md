@@ -29,11 +29,10 @@ latest_posts:
 
 Hello! I'm a Ph.D student in the Graduate School of Data Science at Seoul National University, where I am fortunate to be advised by [Prof. Hyunwoo Park](https://hyunwoopark.com/).
 
-I’m actively conducting research with my amazing colleagues at the [Visualization and Business Analytics Lab](https://viba.snu.ac.kr/).
+I’m actively conducting research with my amazing colleagues at the [Data Intelligence and Learning Lab](https://dial.snu.ac.kr/).
 
 My research interests include, but are not limited to, the following:
 - Graph Representation Learning  
-- Knowledge Graphs  
 - Anomaly Detection
 
 
