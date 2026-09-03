@@ -41,6 +41,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-started-my-internship-at-lg-ai-research-materials-intelligence-lab",
           title: 'I started my internship at LG AI Research, Materials Intelligence Lab.',
           description: "",
+          section: "News",},{id: "news-a-paper-got-accepted-at-kdd-2026-ai-for-sciences-track",
+          title: 'A paper got accepted at KDD 2026 (AI for Sciences track.)',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
