@@ -33,7 +33,7 @@ I’m actively conducting research with my amazing colleagues at the [Data Intel
 
 My research interests include, but are not limited to, the following:
 - Graph Representation Learning  
-- Anomaly Detection
+- Geometric Deep Learning
 
 
 
